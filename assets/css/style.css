@@ -94,26 +94,26 @@ p {
 }
 
 /*Consolidated classes with equal elements*/
-.benefit-lead, .benefit-brand, .benefit-cost {
+.benefit-lead-brand-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 /*Consolidated h3 classes with equal elements*/
-.benefit-brand h3, .benefit-lead h3, .benefit-cost h3 {
+.benefit-lead-brand-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
 /*Consolidated img classes with equal elements*/
-.benefit-lead img, .benefit-brand img, .benefit-cost img {
+.benefit-lead-brand-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
 /*Consolidated classes with equal elements*/
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+.content-article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -123,12 +123,12 @@ p {
 }
 
 /*Consolidated img classes with equal elements*/
-.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
+.content-article img {
     max-height: 200px;
 }
 
 /*Consolidated h2 classes with equal elements*/
-.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
+.content-article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
